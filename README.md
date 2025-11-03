@@ -8,7 +8,7 @@ To execute the notebooks you need to copy them to your own Google Drive before y
 
 (Obs: you need a Google account to use Colab)
 
-## Instructions with Doxkwe
+## Instructions with Docker
 With Docker, start up the lab through running  
 `docker run -p 3000:8080 kthatlas/opendatalab:SH2103`
 and then going to `localhost:3000` in your browser.
