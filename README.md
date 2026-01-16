@@ -6,7 +6,7 @@ Open the Jupyter notebooks in Google Colab, e.g [https://colab.research.google.c
 
 To execute the notebooks you need to copy them to your own Google Drive before you can run them (push "Copy to Drive" near the top of the page")
 
-(Obs: you need a Google account to use Colab)
+(NB! You need a Google account to use Colab)
 
 ## Instructions with Docker
 With Docker, start up the lab through running  
