@@ -15,3 +15,6 @@ and then going to `localhost:3000` in your browser.
 
 This Docker image contains a snapshot of this repository, on top of [cohm/pyroot-notebook](https://hub.docker.com/r/cohm/pyroot-notebook).
 The jupyter server is started when the image is run, and one can start working with the notebooks via a web browser. If you don't have access to a computer with Docker installed, you can use it in free four-hour sessions via [Play With Docker](https://labs.play-with-docker.com/)..
+
+## Instructions with virtual environments/conda environments
+If your own system runs Linux or MacOS, then you can install ROOT yourself through the pip or conda package managers. Simply create a new virtual environment (pip) or conda environment (conda) and install your favourite python packages along with `ROOT` and `atlasopenmagic`, so e.g. `conda install matplotlib numpy scipy pandas root atlasopenmagic`. If you're on Windows then you could either use a Linux virtual machine or one of the other options.
